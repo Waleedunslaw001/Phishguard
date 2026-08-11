@@ -1,0 +1,19 @@
+# Security Policy
+
+## Supported Versions
+
+We actively maintain and support the core codebase of the training tool.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.0.x   | ✅ Supported       |
+
+## Reporting a Vulnerability
+
+Security is paramount to the Waleedunslaw Cybersecurity Organization. If you discover a vulnerability or security flaw within the application framework, please report it immediately:
+
+1. Do not open a public GitHub issue for security flaws.
+2. Email your findings directly to the operations team or project maintainer.
+3. Provide a clear description, reproduction steps, and potential remediation approaches where applicable.
+
+We will review all reports promptly and address verified vulnerabilities in subsequent builds.
